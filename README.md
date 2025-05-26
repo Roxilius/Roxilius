@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Saya adalah seorang web developer yang berpengalaman dalam pengembangan aplikasi web
+fullstack yang responsive, aman, dan user-friendly. Menguasai Spring Boot untuk membangun
+backend yang efesien dan terintegrasi dengan database, serta mahir menggunakan React dan
+Tailwind CSS untuk frontend modern dan interaktif. Memiliki kemampuan kerja tim, komunikasi,
+dan pemecah masalah yang baik, Cepat beradaptasi dan selalu antusias mempelajari teknologi dan
+framework terbaru dalam dunia web development.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/490134574261731358) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roxilius___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fajri-khairan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fajrikhairan08@gmail.com) 
